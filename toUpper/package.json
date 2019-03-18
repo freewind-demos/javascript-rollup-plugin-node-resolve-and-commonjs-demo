@@ -1,5 +1,5 @@
 {
-  "name": "javascript-rollup-plugin-node-resolve-demo--to-upper",
-  "version": "0.1.1",
+  "name": "javascript-rollup-plugin-node-resolve-and-commonjs-demo--to-upper",
+  "version": "0.1.0",
   "main": "index.js"
 }

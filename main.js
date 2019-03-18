@@ -1,4 +1,4 @@
-import {toUpper} from 'javascript-rollup-plugin-node-resolve-demo--to-upper'
+import {toUpper} from 'javascript-rollup-plugin-node-resolve-and-commonjs-demo--to-upper'
 
 function hello(name) {
   return 'Hello, ' + toUpper(name);
